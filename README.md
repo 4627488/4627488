@@ -7,4 +7,4 @@
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/4627488)
 
-![4627488's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=4627488&show_icons=true&count_private=true&theme=gotham)
+![4627488's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4627488&layout=compact&hide_border=true&langs_count=10)

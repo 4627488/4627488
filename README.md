@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Vehicle Engineering 🚗 at University ofNanjing University of Aeronautics and Astronautics (NUAA).
-- 🌱 &nbsp; I’m currently learning algorithms.
+- 🌱 &nbsp; I am interested in networking and algorithm competitions.
 - ✍️ &nbsp; I write articles on [my blog](https://h4627488.me/).
 
 

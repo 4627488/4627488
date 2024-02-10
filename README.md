@@ -6,13 +6,13 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Vehicle Engineering 🚗 at University ofNanjing University of Aeronautics and Astronautics (NUAA).
-- 🌱 &nbsp; I am interested in networking and algorithm competitions.
+- 🌱 &nbsp; I’m currently learning algorithms.
 - ✍️ &nbsp; I write articles on [my blog](https://h4627488.me/).
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4627488&theme=dark&layout=compact" />
+
 
 <br/>
 
@@ -37,7 +37,10 @@
 <br/>
 
 <a href="https://github.com/4627488">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4627488&theme=dark&show_icons=true" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <img style="flex: 1; min-width: 300px; margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=4627488&theme=dark&show_icons=true" />
+    <img style="flex: 1; min-width: 300px; margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4627488&theme=dark&layout=compact" />
+</div>
 </a>
 
 <br/>

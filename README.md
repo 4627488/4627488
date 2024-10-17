@@ -5,7 +5,7 @@
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering 🚗 at Nanjing University of Aeronautics and Astronautics (NUAA).
+- 🎓 &nbsp; Studying Software Engineering at Nanjing University of Aeronautics and Astronautics (NUAA).
 - 🌱 &nbsp; I’m currently learning algorithms.
 - ✍️ &nbsp; I write articles on [my blog](https://h4627488.me/).
 
@@ -48,6 +48,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://h4627488.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.h4627488.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://blog.cafebabe.top/"><img alt="Website" src="https://img.shields.io/badge/Website-blog.cafebabe.top-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:h4627488@nuaa.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-h4627488@nuaa.edu.cn-blue?style=flat-square&logo=gmail"></a>
 </p>

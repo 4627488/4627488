@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering at Nanjing University of Aeronautics and Astronautics (NUAA).
 - 🌱 &nbsp; I’m currently learning algorithms.
-- ✍️ &nbsp; I write articles on [my blog](https://h4627488.me/).
+- ✍️ &nbsp; I write articles on [my blog](https://blog.cafebabe.top/).
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

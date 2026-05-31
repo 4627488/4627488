@@ -21,17 +21,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Codex Stats
 
-<p align="center">
-  <a href="https://github.com/4627488">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4627488&theme=dark&show_icons=true&hide_border=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4627488&theme=dark&layout=compact&hide_border=true" />
-  </a>
-</p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4627488)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![cafebabe](https://ai.cafebabe.top/api/activity.svg?key=key_7IPgjIxShHmyYVuBjslhAA)
 ---
 
 ### 🌏 Connect with me

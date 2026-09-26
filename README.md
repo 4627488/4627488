@@ -23,7 +23,7 @@
 
 ### 📊 Codex Stats
 
-![cafebabe](https://ai.cafebabe.top/api/activity.svg?key=key_7IPgjIxShHmyYVuBjslhAA)
+![Token activity](https://ai.cafebabe.top/share/usage/Nn5vgrkkrvoklxa-nDoWjOmTQJoG-wFFU_xNO0K-6f8/heatmap.svg)
 ---
 
 ### 🌏 Connect with me
